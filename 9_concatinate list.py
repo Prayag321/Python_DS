@@ -1,7 +1,7 @@
 # @Author: Prayag Bhoir
 # @Date: 26-7-24
 # @Last Modified time: 26-07-2024
-# @Title: Python program to check whether a specified value is contained in a group of values
+# @Title: Python program to concatenate all elements in a list into a string and return it
 
 def concatenate_elements(input_list):
     """
