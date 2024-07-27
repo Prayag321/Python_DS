@@ -1,7 +1,7 @@
 # @Author: Prayag Bhoir
 # @Date: 26-7-24
 # @Last Modified time: 26-07-2024 14:00:00
-# @Title :a Python function that takes a list of words and returns the length of the longest
+# @Title :Python function that takes a list of words and returns the length of the longest
 # one
 
 def find_longest_word_length(words):
