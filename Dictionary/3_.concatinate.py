@@ -32,7 +32,9 @@ def main():
   dic1={1:10, 2:20}  
   dic2={3:30, 4:40}  
   dic3={5:50, 6:60} 
+  print("original dict :",dic1,dic2,dic3,sep="\n")
   new_dict = concatenate(dic1,dic2,dic3)
+  print("Concated dict: ",new_dict)
 
 if __name__=="__main__":
   main()
